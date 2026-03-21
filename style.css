@@ -147,5 +147,38 @@ body{
     
 }
 
+.action{
+    background-color: #181818;
+    border: 0;
+    padding: 12px 24px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: 14px
+    
+}
+/* FIM PROJETOS */
+
+/* INICIO RODAPE  */
+
+footer{
+   display: flex;
+   background-color: #181818;
+   margin-top: 40px;
+   height: 80px;
+   justify-content: center;
+   align-items: center;
+   color: #ffffff;
+}
 
 
+footer a{
+    text-decoration: none;
+    color: white;
+
+}
+
+footer p{
+    margin-left: 8px;
+}
